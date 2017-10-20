@@ -1,0 +1,42 @@
+
+
+.plane{
+  font-family: 'Indie Flower', cursive;
+  width: 150px;
+  height:100;
+  border: 1px solid gray;
+  padding:20px;
+  margin:10px;
+  background-color:rgb(193, 193, 193) ;
+}
+
+.keke{
+  font-family: 'Arvo', serif;
+  width: 200px;
+  height:300px;
+  border: 1px solid gray;
+  padding:20px;
+  margin:10px;
+  background-color: rgb(193, 193, 193);
+
+}
+
+.diamond{
+  font-family: 'Lobster', cursive;
+  width: 200px;
+  height:310px;
+  border: 1px solid gray;
+  padding:20px;
+  margin:10px;
+  background-color: rgb(193, 193, 193);
+}
+
+.heart{
+  font-family: 'Hind', sans-serif;
+  width: 200px;
+  height:100;
+  border: 1px solid gray;
+  padding:20px;
+  margin:10px;
+  background-color: white;
+}
